@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align = center>Hi! My name is Vitaly Popov, <br>I am a student of the IV1-21 group</h1>
 
 <!--
 **VitaliiPopov00/VitaliiPopov00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
