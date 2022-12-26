@@ -10,4 +10,4 @@
   <img src="https://komarev.com/ghpvc/?username=VitaliiPopov00&style=flat-square&color=blue" alt="profile_views"/>
 </div>
 
-![VitaliiPopov00 snake gif](https://github.com/VitaliiPopov00/VitaliiPopov00/blob/output/github-contribution-grid-snake.svg)
+<!-- ![VitaliiPopov00 snake gif](https://github.com/VitaliiPopov00/VitaliiPopov00/blob/output/github-contribution-grid-snake.svg) -->
