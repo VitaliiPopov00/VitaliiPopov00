@@ -1,4 +1,4 @@
-<h1 align = center>Hi! My name is Vitaly Popov, <br>I am a student of the IV1-21 group</h1>
+<h1 align = center>My name is Vitaly Popov, <br>I am a student of the IV1-21 group</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="250"/>
